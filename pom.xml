@@ -24,7 +24,11 @@
 		<module>jaxp</module>
 		<module>reflect</module>
 		<module>security</module>
-    <module>servlet</module>
+		<module>servlet</module>
+		<module>spring</module>
+		
+		<module>designpattterns</module>
+    <module>hibernate</module>
   </modules>
 	<build>
 		<plugins>
