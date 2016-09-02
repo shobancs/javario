@@ -30,5 +30,6 @@
     <module>autowire</module>
     <module>mvc</module>
     <module>rest</module>
+    <module>upload</module>
   </modules>
 </project>
