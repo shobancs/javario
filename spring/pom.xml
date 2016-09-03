@@ -31,5 +31,7 @@
     <module>mvc</module>
     <module>rest</module>
     <module>upload</module>
+    <module>formvalidation</module>
+    <module>exception</module>
   </modules>
 </project>
