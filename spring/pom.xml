@@ -33,5 +33,9 @@
     <module>upload</module>
     <module>formvalidation</module>
     <module>exception</module>
+    <module>interceptors</module>
+    <module>orm-tx</module>
+    <module>orm-tx-aop</module>
+    <module>spring-secuirty</module>
   </modules>
 </project>

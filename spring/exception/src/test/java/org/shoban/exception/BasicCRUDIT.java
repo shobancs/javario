@@ -4,6 +4,8 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
+import java.awt.color.CMMException;
+
 import javax.inject.Inject;
 
 import org.junit.Test;
@@ -69,7 +71,7 @@ public class BasicCRUDIT {
 			if(entity==null) entityId = null;
 			
 
-		} catch (ConnectionException e) {
+		} catch (CMMException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
