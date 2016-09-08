@@ -28,7 +28,8 @@
 		<module>spring</module>
 		
 		<module>designpattterns</module>
-    <module>hibernate</module>
+   
+    <module>hibernate-parent</module>
   </modules>
 	<build>
 		<plugins>

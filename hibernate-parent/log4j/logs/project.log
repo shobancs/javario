@@ -1,0 +1,16 @@
+2016-09-07 23:09:40,624 -0400 [main] INFO  (HibernateUtil.java:20) - Hibernate Configuration loaded
+2016-09-07 23:09:40,700 -0400 [main] INFO  (HibernateUtil.java:23) - Hibernate serviceRegistry created
+2016-09-07 23:09:41,941 -0400 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::1,San Jose
+2016-09-07 23:09:41,942 -0400 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::2,Santa Clara
+2016-09-07 23:09:41,942 -0400 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::3,Bangalore
+2016-09-07 23:09:41,942 -0400 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::4,New Delhi
+2016-09-07 23:09:41,942 -0400 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::5,Test City
+2016-09-07 23:09:41,955 -0400 [main] INFO  (HibernateLog4jExample.java:42) - DONE
+2016-09-07 23:09:59,851 -0400 [main] INFO  (HibernateUtil.java:20) - Hibernate Configuration loaded
+2016-09-07 23:09:59,927 -0400 [main] INFO  (HibernateUtil.java:23) - Hibernate serviceRegistry created
+2016-09-07 23:10:01,389 -0400 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::1,San Jose
+2016-09-07 23:10:01,390 -0400 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::2,Santa Clara
+2016-09-07 23:10:01,390 -0400 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::3,Bangalore
+2016-09-07 23:10:01,390 -0400 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::4,New Delhi
+2016-09-07 23:10:01,390 -0400 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::5,Test City
+2016-09-07 23:10:01,400 -0400 [main] INFO  (HibernateLog4jExample.java:42) - DONE

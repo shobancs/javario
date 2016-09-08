@@ -1,0 +1,34 @@
+2016-09-07 23:09:40,529 -0400 [main] INFO  (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2016-09-07 23:09:40,541 -0400 [main] INFO  (Version.java:54) - HHH000412: Hibernate Core {4.3.5.Final}
+2016-09-07 23:09:40,545 -0400 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2016-09-07 23:09:40,547 -0400 [main] INFO  (Environment.java:346) - HHH000021: Bytecode provider name : javassist
+2016-09-07 23:09:40,575 -0400 [main] INFO  (Configuration.java:2073) - HHH000043: Configuring from resource: hibernate.cfg.xml
+2016-09-07 23:09:40,576 -0400 [main] INFO  (Configuration.java:2092) - HHH000040: Configuration resource: hibernate.cfg.xml
+2016-09-07 23:09:40,624 -0400 [main] INFO  (Configuration.java:2214) - HHH000041: Configured SessionFactory: null
+2016-09-07 23:09:40,706 -0400 [main] WARN  (DriverManagerConnectionProviderImpl.java:93) - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-09-07 23:09:40,709 -0400 [main] INFO  (DriverManagerConnectionProviderImpl.java:166) - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/training]
+2016-09-07 23:09:40,710 -0400 [main] INFO  (DriverManagerConnectionProviderImpl.java:175) - HHH000046: Connection properties: {user=java, password=****}
+2016-09-07 23:09:40,710 -0400 [main] INFO  (DriverManagerConnectionProviderImpl.java:180) - HHH000006: Autocommit mode: false
+2016-09-07 23:09:40,711 -0400 [main] INFO  (DriverManagerConnectionProviderImpl.java:102) - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-09-07 23:09:40,930 -0400 [main] INFO  (Dialect.java:145) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-09-07 23:09:40,938 -0400 [main] INFO  (LobCreatorBuilder.java:97) - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2016-09-07 23:09:41,077 -0400 [main] INFO  (TransactionFactoryInitiator.java:62) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-09-07 23:09:41,081 -0400 [main] INFO  (ASTQueryTranslatorFactory.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2016-09-07 23:09:41,953 -0400 [main] INFO  (DriverManagerConnectionProviderImpl.java:281) - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost/training]
+2016-09-07 23:09:59,757 -0400 [main] INFO  (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2016-09-07 23:09:59,769 -0400 [main] INFO  (Version.java:54) - HHH000412: Hibernate Core {4.3.5.Final}
+2016-09-07 23:09:59,773 -0400 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2016-09-07 23:09:59,775 -0400 [main] INFO  (Environment.java:346) - HHH000021: Bytecode provider name : javassist
+2016-09-07 23:09:59,801 -0400 [main] INFO  (Configuration.java:2073) - HHH000043: Configuring from resource: hibernate.cfg.xml
+2016-09-07 23:09:59,802 -0400 [main] INFO  (Configuration.java:2092) - HHH000040: Configuration resource: hibernate.cfg.xml
+2016-09-07 23:09:59,850 -0400 [main] INFO  (Configuration.java:2214) - HHH000041: Configured SessionFactory: null
+2016-09-07 23:09:59,933 -0400 [main] WARN  (DriverManagerConnectionProviderImpl.java:93) - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-09-07 23:09:59,936 -0400 [main] INFO  (DriverManagerConnectionProviderImpl.java:166) - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/training]
+2016-09-07 23:09:59,937 -0400 [main] INFO  (DriverManagerConnectionProviderImpl.java:175) - HHH000046: Connection properties: {user=java, password=****}
+2016-09-07 23:09:59,937 -0400 [main] INFO  (DriverManagerConnectionProviderImpl.java:180) - HHH000006: Autocommit mode: false
+2016-09-07 23:09:59,938 -0400 [main] INFO  (DriverManagerConnectionProviderImpl.java:102) - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-09-07 23:10:00,151 -0400 [main] INFO  (Dialect.java:145) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-09-07 23:10:00,159 -0400 [main] INFO  (LobCreatorBuilder.java:97) - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2016-09-07 23:10:00,320 -0400 [main] INFO  (TransactionFactoryInitiator.java:62) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-09-07 23:10:00,328 -0400 [main] INFO  (ASTQueryTranslatorFactory.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2016-09-07 23:10:01,398 -0400 [main] INFO  (DriverManagerConnectionProviderImpl.java:281) - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost/training]
