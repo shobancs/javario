@@ -1,11 +1,11 @@
-package org.shoban.hibernate.namedquery.cache1;
+packageorg.shoban.hibernate.hql.cache1;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 
-import org.shoban.hibernate.namedquery.model.Employee;
-import org.shoban.hibernate.namedquery.util.HibernateUtil;
+importorg.shoban.hibernate.hql.model.Employee;
+importorg.shoban.hibernate.hql.util.HibernateUtil;
 
 public class HibernateCacheExample {
 

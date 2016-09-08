@@ -1,4 +1,4 @@
-package org.shoban.hibernate.namedquery;
+packageorg.shoban.hibernate.hql;
 
 /**
  * Hello world!

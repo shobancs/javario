@@ -1,4 +1,4 @@
-package org.shoban.hibernate.namedquery.model;
+packageorg.shoban.hibernate.hql.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -1,4 +1,4 @@
-package org.shoban.hibernate.namedquery.criteria;
+packageorg.shoban.hibernate.hql.criteria;
 
 import java.util.Arrays;
 import java.util.List;
@@ -13,8 +13,8 @@ import org.hibernate.criterion.ProjectionList;
 import org.hibernate.criterion.Projections;
 import org.hibernate.criterion.Restrictions;
 
-import org.shoban.hibernate.namedquery.model.Employee;
-import org.shoban.hibernate.namedquery.util.HibernateUtil;
+importorg.shoban.hibernate.hql.model.Employee;
+importorg.shoban.hibernate.hql.util.HibernateUtil;
 
 public class HibernateCriteriaExamples {
 

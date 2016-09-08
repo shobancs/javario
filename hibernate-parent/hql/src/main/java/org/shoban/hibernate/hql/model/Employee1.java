@@ -1,4 +1,4 @@
-package org.shoban.hibernate.namedquery.model;
+package org.shoban.hibernate.hql.model;
 
 import java.util.Date;
 

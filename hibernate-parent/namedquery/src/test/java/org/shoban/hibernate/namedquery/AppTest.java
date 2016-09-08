@@ -1,4 +1,4 @@
-package org.shoban.hibernate.namedquery;
+packageorg.shoban.hibernate.hql;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package org.shoban.hibernate.namedquery.util;
+package org.shoban.hibernate.hql.util;
 
 import java.util.Properties;
 
@@ -7,7 +7,7 @@ import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 
-import org.shoban.hibernate.namedquery.model.Employee1;
+import org.shoban.hibernate.hql.model.Employee1;
 
 public class HibernateUtil {
 
@@ -78,7 +78,7 @@ public class HibernateUtil {
 		
 		//we can set mapping file or class with annotation
 		//addClass(Employee1.class) will look for resource
-		// com/journaldev/hibernate/model/Employee1.hbm.xml (not good)
+		// org/shoban/hibernate/model/Employee1.hbm.xml (not good)
 		configuration.addAnnotatedClass(Employee1.class);
 		
 		ServiceRegistry serviceRegistry = new StandardServiceRegistryBuilder().applySettings(configuration.getProperties()).build();

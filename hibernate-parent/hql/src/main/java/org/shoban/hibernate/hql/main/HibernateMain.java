@@ -1,11 +1,11 @@
-package org.shoban.hibernate.namedquery.main;
+package org.shoban.hibernate.hql.main;
 
 import java.util.Date;
 
 import org.hibernate.Session;
 
-import org.shoban.hibernate.namedquery.model.Employee;
-import org.shoban.hibernate.namedquery.util.HibernateUtil;
+import org.shoban.hibernate.hql.model.Employee;
+import org.shoban.hibernate.hql.util.HibernateUtil;
 
 public class HibernateMain {
 

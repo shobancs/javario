@@ -1,4 +1,4 @@
-package org.shoban.hibernate.namedquery.util;
+packageorg.shoban.hibernate.hql.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
