@@ -1,4 +1,4 @@
-packageorg.shoban.hibernate.hql.model;
+package org.shoban.hibernate.hql.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

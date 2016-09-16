@@ -11,12 +11,12 @@ import javax.persistence.Table;
 import javax.persistence.UniqueConstraint;
 
 @Entity
-@Table(name="Employee", 
+@Table(name="emp", 
 	   uniqueConstraints={@UniqueConstraint(columnNames={"ID"})})
 public class Employee1 {
 
 	@Id
-	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@GeneratedValue(strategy=GenerationType.AUTO )
 	@Column(name="ID", nullable=false, unique=true, length=11)
 	private int id;
 	

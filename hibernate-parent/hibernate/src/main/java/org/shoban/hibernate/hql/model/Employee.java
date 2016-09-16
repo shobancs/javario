@@ -1,4 +1,4 @@
-packageorg.shoban.hibernate.hql.model;
+package org.shoban.hibernate.hql.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -11,7 +11,7 @@ import javax.persistence.Table;
 import org.hibernate.annotations.Cascade;
 
 @Entity
-@Table(name = "EMPLOYEE")
+@Table(name = "emp")
 public class Employee {
 
 	@Id

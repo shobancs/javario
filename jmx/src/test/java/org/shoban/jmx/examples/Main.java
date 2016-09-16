@@ -51,7 +51,7 @@ public class Main {
         MBeanServer mbs = ManagementFactory.getPlatformMBeanServer();
 
 	// Construct the ObjectName for the Hello MBean we will register
-	ObjectName mbeanName = new ObjectName("com.example:type=Hello");
+	ObjectName mbeanName = new ObjectName("org.shoban.jmx:type=Hello");
 
 	// Create the Hello World MBean
 	Hello mbean = new Hello();
@@ -60,7 +60,7 @@ public class Main {
 	mbs.registerMBean(mbean, mbeanName);
 
         // Construct the ObjectName for the QueueSampler MXBean we will register
-        ObjectName mxbeanName = new ObjectName("com.example:type=QueueSampler");
+        ObjectName mxbeanName = new ObjectName("org.shoban.jmx:type=QueueSampler");
 
         // Create the Queue Sampler MXBean
         Queue<String> queue = new ArrayBlockingQueue<String>(10);

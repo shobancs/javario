@@ -135,7 +135,7 @@ public class Client {
 
         // Construct the ObjectName for the Hello MBean
         //
-        ObjectName mbeanName = new ObjectName("com.example:type=Hello");
+        ObjectName mbeanName = new ObjectName("org.shoban.jmx:type=Hello");
 
         // Create a dedicated proxy for the MBean instead of
         // going directly through the MBean server connection
@@ -189,7 +189,7 @@ public class Client {
         // Construct the ObjectName for the QueueSampler MXBean
         //
         ObjectName mxbeanName =
-            new ObjectName("com.example:type=QueueSampler");
+            new ObjectName("org.shoban.jmx:type=QueueSampler");
 
         // Create a dedicated proxy for the MXBean instead of
         // going directly through the MBean server connection

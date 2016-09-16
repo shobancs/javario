@@ -8,6 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>rest</artifactId>
+  
  <properties>
 		<java-version>1.6</java-version>
 		<org.springframework-version>4.0.0.RELEASE</org.springframework-version>
@@ -178,4 +179,5 @@
 		</plugins>
 		
 	</build>
+	<packaging>war</packaging>
 </project>

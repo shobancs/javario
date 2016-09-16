@@ -1,4 +1,4 @@
-packageorg.shoban.hibernate.hql.main;
+package org.shoban.hibernate.hql.main;
 
 import java.util.Arrays;
 import java.util.List;
@@ -8,8 +8,8 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 
-importorg.shoban.hibernate.hql.model.Employee;
-importorg.shoban.hibernate.hql.util.HibernateUtil;
+import org.shoban.hibernate.hql.model.Employee;
+import org.shoban.hibernate.hql.util.HibernateUtil;
 
 public class HQLExamples {
 
